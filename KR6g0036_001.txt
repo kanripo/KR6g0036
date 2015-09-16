@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:58.569448
+#+DATE: 2015-08-30 20:04:59.714695
 #+TITLE: 般泥洹後灌臘經
 #+PROPERTY: CBETA_ID T12n0391
 #+PROPERTY: ID KR6g0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 391
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0036_T_001-1114a> 
 #+PROPERTY: JUAN 1
 ¶
-No.391¶
-
- 《般泥洹後灌臘經》¶
+No. 391¶
+《般泥洹後灌臘經》¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
