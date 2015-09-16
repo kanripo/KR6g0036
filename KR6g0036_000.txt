@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 般泥洹後灌臘經
+#+DATE: 2015-08-30 20:04:58.783476
+#+PROPERTY: JUAN 0
