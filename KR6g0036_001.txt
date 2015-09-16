@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:58.569448
+#+DATE: 2015-08-30 20:04:59.207793
 #+TITLE: 般泥洹後灌臘經
 #+PROPERTY: CBETA_ID T12n0391
 #+PROPERTY: ID KR6g0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 391
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6g0036_T_001-1114a> 
 #+PROPERTY: JUAN 1
 ¶
-No.391¶
-
- 《般泥洹後灌臘經》¶
+No. 391¶
+《般泥洹後灌臘經》¶
 ¶
-西晉月氏國三藏竺法護譯¶
+西晉三藏竺法護譯¶
 
 聞如是：
 
@@ -37,9 +36,9 @@ No.391¶
 知：此人出五家財物，侵妻子分用求福利，而¶
 反不出，當有五罪入三惡道。何等為五？一者¶
 財物日減，二者憙忘遺，三者治生所向無利，¶
-四者入太山地獄中被考治苦痛難言，五者¶
+四者入太山地獄中被拷治苦痛難言，五者¶
 後世來生，或作奴婢、牛馬、騾驢、駱駝，或作猪¶
-羊，是為五。更罪三惡：一者為入薜荔中作餓¶
+羊，是為五。更羅三惡：一者為入薜荔中作餓¶
 鬼，二者入禽獸作畜生，三者泥犁中當更十¶
 八地獄，罪不可數。
 
