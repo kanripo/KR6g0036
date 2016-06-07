@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:59.207793
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:11
 #+TITLE: 般泥洹後灌臘經
 #+PROPERTY: CBETA_ID T12n0391
 #+PROPERTY: ID KR6g0036
